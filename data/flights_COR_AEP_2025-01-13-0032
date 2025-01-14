@@ -1,0 +1,827 @@
+{
+    "search_metadata": {
+        "id": "678481f7d17aa4c2bf2ee471",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/df94eec838025c51/678481f7d17aa4c2bf2ee471.json",
+        "created_at": "2025-01-13 03:01:11 UTC",
+        "processed_at": "2025-01-13 03:01:11 UTC",
+        "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&tfs=CBwQAhoeEgoyMDI1LTA0LTEyagcIARIDQ09ScgcIARIDQUVQGh4SCjIwMjUtMDQtMTNqBwgBEgNBRVByBwgBEgNDT1JCAQFIAXABmAEB",
+        "raw_html_file": "https://serpapi.com/searches/df94eec838025c51/678481f7d17aa4c2bf2ee471.html",
+        "prettify_html_file": "https://serpapi.com/searches/df94eec838025c51/678481f7d17aa4c2bf2ee471.prettify",
+        "total_time_taken": 0.73
+    },
+    "search_parameters": {
+        "engine": "google_flights",
+        "hl": "en",
+        "gl": "us",
+        "departure_id": "COR",
+        "arrival_id": "AEP",
+        "outbound_date": "2025-04-12",
+        "return_date": "2025-04-13"
+    },
+    "best_flights": [
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 08:00"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 09:16"
+                    },
+                    "duration": 76,
+                    "airplane": "Airbus A320",
+                    "airline": "JetSMART",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "JA 3101",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "Carbon emissions estimate: 86 kg"
+                    ]
+                }
+            ],
+            "total_duration": 76,
+            "carbon_emissions": {
+                "this_flight": 87000,
+                "typical_for_this_route": 100000,
+                "difference_percent": -13
+            },
+            "price": 73,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pLUVRNeE1ERWFDZ2pKT0JBQ0dnTlZVMFE0SEhESk9BPT0iLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkpBIiwiMzEwMSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 12:09"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 13:24"
+                    },
+                    "duration": 75,
+                    "airplane": "Airbus A320",
+                    "airline": "JetSMART",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "JA 3109",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "Carbon emissions estimate: 86 kg"
+                    ]
+                }
+            ],
+            "total_duration": 75,
+            "carbon_emissions": {
+                "this_flight": 87000,
+                "typical_for_this_route": 100000,
+                "difference_percent": -13
+            },
+            "price": 73,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pLUVRNeE1Ea2FDZ2pKT0JBQ0dnTlZVMFE0SEhESk9BPT0iLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkpBIiwiMzEwOSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 14:16"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 15:32"
+                    },
+                    "duration": 76,
+                    "airplane": "Airbus A320",
+                    "airline": "JetSMART",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "JA 3103",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "Carbon emissions estimate: 86 kg"
+                    ]
+                }
+            ],
+            "total_duration": 76,
+            "carbon_emissions": {
+                "this_flight": 87000,
+                "typical_for_this_route": 100000,
+                "difference_percent": -13
+            },
+            "price": 73,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pLUVRNeE1ETWFDZ2pKT0JBQ0dnTlZVMFE0SEhESk9BPT0iLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkpBIiwiMzEwMyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 21:37"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 22:53"
+                    },
+                    "duration": 76,
+                    "airplane": "Airbus A320",
+                    "airline": "JetSMART",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "JA 3107",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "Carbon emissions estimate: 86 kg"
+                    ]
+                }
+            ],
+            "total_duration": 76,
+            "carbon_emissions": {
+                "this_flight": 87000,
+                "typical_for_this_route": 100000,
+                "difference_percent": -13
+            },
+            "price": 73,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JA.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pLUVRNeE1EY2FDZ2pKT0JBQ0dnTlZVMFE0SEhESk9BPT0iLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkpBIiwiMzEwNyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 09:50"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 11:10"
+                    },
+                    "duration": 80,
+                    "airplane": "Boeing 737",
+                    "airline": "Aerolineas Argentinas",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "AR 1525",
+                    "legroom": "30 in",
+                    "extensions": [
+                        "Average legroom (30 in)",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 84 kg"
+                    ]
+                }
+            ],
+            "total_duration": 80,
+            "carbon_emissions": {
+                "this_flight": 85000,
+                "typical_for_this_route": 100000,
+                "difference_percent": -15
+            },
+            "price": 175,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pCVWpFMU1qVWFDd2paaUFFUUFob0RWVk5FT0J4dzJZZ0IiLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkFSIiwiMTUyNSJdXV0="
+        }
+    ],
+    "other_flights": [
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 11:20"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 12:40"
+                    },
+                    "duration": 80,
+                    "airplane": "Boeing 737",
+                    "airline": "Aerolineas Argentinas",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "AR 1527",
+                    "legroom": "30 in",
+                    "extensions": [
+                        "Average legroom (30 in)",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 84 kg"
+                    ]
+                }
+            ],
+            "total_duration": 80,
+            "carbon_emissions": {
+                "this_flight": 85000,
+                "typical_for_this_route": 100000,
+                "difference_percent": -15
+            },
+            "price": 163,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pCVWpFMU1qY2FDZ2p0ZmhBQ0dnTlZVMFE0SEhEdGZnPT0iLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkFSIiwiMTUyNyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 13:25"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 14:45"
+                    },
+                    "duration": 80,
+                    "airplane": "Embraer 190",
+                    "airline": "Aerolineas Argentinas",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "AR 1531",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 111 kg"
+                    ]
+                }
+            ],
+            "total_duration": 80,
+            "carbon_emissions": {
+                "this_flight": 112000,
+                "typical_for_this_route": 100000,
+                "difference_percent": 12
+            },
+            "price": 175,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pCVWpFMU16RWFDd2paaUFFUUFob0RWVk5FT0J4dzJZZ0IiLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkFSIiwiMTUzMSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 16:00"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 17:20"
+                    },
+                    "duration": 80,
+                    "airplane": "Embraer 190",
+                    "airline": "Aerolineas Argentinas",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "AR 1533",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 111 kg"
+                    ]
+                }
+            ],
+            "total_duration": 80,
+            "carbon_emissions": {
+                "this_flight": 112000,
+                "typical_for_this_route": 100000,
+                "difference_percent": 12
+            },
+            "price": 175,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pCVWpFMU16TWFDd2paaUFFUUFob0RWVk5FT0J4dzJZZ0IiLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkFSIiwiMTUzMyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 08:50"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 10:10"
+                    },
+                    "duration": 80,
+                    "airplane": "Embraer 190",
+                    "airline": "Aerolineas Argentinas",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "AR 1523",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 111 kg"
+                    ]
+                }
+            ],
+            "total_duration": 80,
+            "carbon_emissions": {
+                "this_flight": 112000,
+                "typical_for_this_route": 100000,
+                "difference_percent": 12
+            },
+            "price": 217,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AR.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ1pCVWpFMU1qTWFDd2k5cVFFUUFob0RWVk5FT0J4d3Zha0IiLFtbIkNPUiIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkFSIiwiMTUyMyJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 13:35"
+                    },
+                    "arrival_airport": {
+                        "name": "Arturo Merino Benitez International Airport",
+                        "id": "SCL",
+                        "time": "2025-04-12 14:11"
+                    },
+                    "duration": 96,
+                    "airplane": "Airbus A321",
+                    "airline": "LATAM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
+                    "travel_class": "Premium Economy",
+                    "flight_number": "LA 491",
+                    "legroom": "34 in",
+                    "extensions": [
+                        "Below average legroom (34 in)",
+                        "In-seat power & USB outlets",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 78 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Arturo Merino Benitez International Airport",
+                        "id": "SCL",
+                        "time": "2025-04-13 04:36"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-13 07:40"
+                    },
+                    "duration": 124,
+                    "airplane": "Airbus A320",
+                    "airline": "LATAM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
+                    "travel_class": "Premium Economy",
+                    "flight_number": "LA 421",
+                    "legroom": "34 in",
+                    "extensions": [
+                        "Below average legroom (34 in)",
+                        "In-seat power outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 113 kg"
+                    ],
+                    "overnight": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 865,
+                    "name": "Arturo Merino Benitez International Airport",
+                    "id": "SCL",
+                    "overnight": true
+                }
+            ],
+            "total_duration": 1085,
+            "carbon_emissions": {
+                "this_flight": 192000,
+                "typical_for_this_route": 100000,
+                "difference_percent": 92
+            },
+            "price": 1234,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ3RNUVRRNU1YeE1RVFF5TVJvTENNM0RCeEFDR2dOVlUwUTRISEROd3djPSIsW1siQ09SIiwiMjAyNS0wNC0xMiIsIlNDTCIsbnVsbCwiTEEiLCI0OTEiXSxbIlNDTCIsIjIwMjUtMDQtMTMiLCJBRVAiLG51bGwsIkxBIiwiNDIxIl1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
+                        "id": "COR",
+                        "time": "2025-04-12 13:35"
+                    },
+                    "arrival_airport": {
+                        "name": "Arturo Merino Benitez International Airport",
+                        "id": "SCL",
+                        "time": "2025-04-12 14:11"
+                    },
+                    "duration": 96,
+                    "airplane": "Airbus A321",
+                    "airline": "LATAM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "LA 491",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 78 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Arturo Merino Benitez International Airport",
+                        "id": "SCL",
+                        "time": "2025-04-12 16:37"
+                    },
+                    "arrival_airport": {
+                        "name": "Aeroparque Internacional Jorge Newbery",
+                        "id": "AEP",
+                        "time": "2025-04-12 19:40"
+                    },
+                    "duration": 123,
+                    "airplane": "Airbus A320",
+                    "airline": "LATAM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "LA 425",
+                    "legroom": "28 in",
+                    "extensions": [
+                        "Below average legroom (28 in)",
+                        "In-seat USB outlet",
+                        "Stream media to your device",
+                        "Carbon emissions estimate: 113 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 146,
+                    "name": "Arturo Merino Benitez International Airport",
+                    "id": "SCL"
+                }
+            ],
+            "total_duration": 365,
+            "carbon_emissions": {
+                "this_flight": 192000,
+                "typical_for_this_route": 100000,
+                "difference_percent": 92
+            },
+            "price": 1234,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
+            "departure_token": "WyJDalJJVDAxVE5URnhTMWs1UjFWQlNGUXdUMmRDUnkwdExTMHRMUzB0TFMxMmRIVjRORUZCUVVGQlIyVkZaMlpqVG14S01uTkJFZ3RNUVRRNU1YeE1RVFF5TlJvTENOVERCeEFDR2dOVlUwUTRISERVd3djPSIsW1siQ09SIiwiMjAyNS0wNC0xMiIsIlNDTCIsbnVsbCwiTEEiLCI0OTEiXSxbIlNDTCIsIjIwMjUtMDQtMTIiLCJBRVAiLG51bGwsIkxBIiwiNDI1Il1dXQ=="
+        }
+    ],
+    "price_insights": {
+        "lowest_price": 73,
+        "price_level": "typical",
+        "typical_price_range": [
+            40,
+            105
+        ],
+        "price_history": [
+            [
+                1731466800,
+                75
+            ],
+            [
+                1731553200,
+                75
+            ],
+            [
+                1731639600,
+                75
+            ],
+            [
+                1731726000,
+                77
+            ],
+            [
+                1731812400,
+                77
+            ],
+            [
+                1731898800,
+                77
+            ],
+            [
+                1731985200,
+                79
+            ],
+            [
+                1732071600,
+                76
+            ],
+            [
+                1732158000,
+                76
+            ],
+            [
+                1732244400,
+                76
+            ],
+            [
+                1732330800,
+                76
+            ],
+            [
+                1732417200,
+                76
+            ],
+            [
+                1732503600,
+                76
+            ],
+            [
+                1732590000,
+                76
+            ],
+            [
+                1732676400,
+                75
+            ],
+            [
+                1732762800,
+                75
+            ],
+            [
+                1732849200,
+                75
+            ],
+            [
+                1732935600,
+                76
+            ],
+            [
+                1733022000,
+                80
+            ],
+            [
+                1733108400,
+                80
+            ],
+            [
+                1733194800,
+                80
+            ],
+            [
+                1733281200,
+                80
+            ],
+            [
+                1733367600,
+                80
+            ],
+            [
+                1733454000,
+                80
+            ],
+            [
+                1733540400,
+                80
+            ],
+            [
+                1733626800,
+                80
+            ],
+            [
+                1733713200,
+                79
+            ],
+            [
+                1733799600,
+                79
+            ],
+            [
+                1733886000,
+                79
+            ],
+            [
+                1733972400,
+                79
+            ],
+            [
+                1734058800,
+                79
+            ],
+            [
+                1734145200,
+                79
+            ],
+            [
+                1734231600,
+                79
+            ],
+            [
+                1734318000,
+                79
+            ],
+            [
+                1734404400,
+                79
+            ],
+            [
+                1734490800,
+                75
+            ],
+            [
+                1734577200,
+                74
+            ],
+            [
+                1734663600,
+                74
+            ],
+            [
+                1734750000,
+                74
+            ],
+            [
+                1734836400,
+                75
+            ],
+            [
+                1734922800,
+                75
+            ],
+            [
+                1735009200,
+                74
+            ],
+            [
+                1735095600,
+                74
+            ],
+            [
+                1735182000,
+                74
+            ],
+            [
+                1735268400,
+                74
+            ],
+            [
+                1735354800,
+                74
+            ],
+            [
+                1735441200,
+                74
+            ],
+            [
+                1735527600,
+                74
+            ],
+            [
+                1735614000,
+                74
+            ],
+            [
+                1735700400,
+                74
+            ],
+            [
+                1735786800,
+                74
+            ],
+            [
+                1735873200,
+                74
+            ],
+            [
+                1735959600,
+                74
+            ],
+            [
+                1736046000,
+                74
+            ],
+            [
+                1736132400,
+                74
+            ],
+            [
+                1736218800,
+                73
+            ],
+            [
+                1736305200,
+                73
+            ],
+            [
+                1736391600,
+                73
+            ],
+            [
+                1736478000,
+                73
+            ],
+            [
+                1736564400,
+                73
+            ],
+            [
+                1736650800,
+                73
+            ],
+            [
+                1736737200,
+                73
+            ]
+        ]
+    },
+    "airports": [
+        {
+            "departure": [
+                {
+                    "airport": {
+                        "id": "COR",
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport"
+                    },
+                    "city": "C\u00f3rdoba",
+                    "country": "Argentina",
+                    "country_code": "AR",
+                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-3lyQ0I5lPoTH7neSS8tffrWesEASJk419TgEYZTLMwwAWdLxvKGfa0a6jOm2oM-3djO8bWo3HIy_bA",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPhfJzLLU_gZez7minclAHX-3teFxR1p2CA2K5zXS0eOQYMARJJVIUjd9hOOoDz9WPxbQYAJlE9ygdNXUxwVyLT-0YKZJyWKGwFV75LoE"
+                }
+            ],
+            "arrival": [
+                {
+                    "airport": {
+                        "id": "AEP",
+                        "name": "Aeroparque Internacional Jorge Newbery"
+                    },
+                    "city": "Buenos Aires",
+                    "country": "Argentina",
+                    "country_code": "AR",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_8Wir2bWSV6c5vDI6iSYjPHXjnWEuFr-Xg33JSybgBo36nv4VTOA4K1Sl04Tl_Y4XIp-2BjVw0X7QA",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPsid8HQwZLpCB-QGyp_Sv0aoHPrBnZ7h7mygjconIcppC2tUm7xktKrXHl4E6I1cxwdLTaixDzmpo6dPL7DUHAyyhtojQ0gEZOSSnu4"
+                }
+            ]
+        },
+        {
+            "departure": [
+                {
+                    "airport": {
+                        "id": "AEP",
+                        "name": "Aeroparque Internacional Jorge Newbery"
+                    },
+                    "city": "Buenos Aires",
+                    "country": "Argentina",
+                    "country_code": "AR",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_8Wir2bWSV6c5vDI6iSYjPHXjnWEuFr-Xg33JSybgBo36nv4VTOA4K1Sl04Tl_Y4XIp-2BjVw0X7QA",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPsid8HQwZLpCB-QGyp_Sv0aoHPrBnZ7h7mygjconIcppC2tUm7xktKrXHl4E6I1cxwdLTaixDzmpo6dPL7DUHAyyhtojQ0gEZOSSnu4"
+                }
+            ],
+            "arrival": [
+                {
+                    "airport": {
+                        "id": "COR",
+                        "name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport"
+                    },
+                    "city": "C\u00f3rdoba",
+                    "country": "Argentina",
+                    "country_code": "AR",
+                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-3lyQ0I5lPoTH7neSS8tffrWesEASJk419TgEYZTLMwwAWdLxvKGfa0a6jOm2oM-3djO8bWo3HIy_bA",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPhfJzLLU_gZez7minclAHX-3teFxR1p2CA2K5zXS0eOQYMARJJVIUjd9hOOoDz9WPxbQYAJlE9ygdNXUxwVyLT-0YKZJyWKGwFV75LoE"
+                }
+            ]
+        }
+    ]
+}
