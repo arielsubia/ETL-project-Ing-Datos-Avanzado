@@ -51,17 +51,17 @@ configurado en Airflow. La base de datos está alojada en Aiven Cloud, el cual e
 y confiable.
 También se utilizó la aplicación de escritorio DBeaver para la gestión, control de la base de datos.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 La base de datos fue creada previamente mediante Dbeaver. La misma rige bajo el sigueinte ERD,
 el cual permite ampliarlo en caso de que sea necesario, el cual puede ser obtenido mediante los
 archivos json que se encuentran almacenados en nuestro repositorio local.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 El pipeline obtenido mediante Apache Airflow se visualiza a continuación.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 3.2 Desarrollo Técnico
 - Lenguaje de programación: Python para la extracción y transformación de datos. SQL para la
@@ -72,8 +72,8 @@ gestión de almacenamiento en la base de datos.
 - Histograma por vuelo: Se representa por cada vuelo en cada una de las etapas (AEP-COR y CORAEP) los cambios que han sufrido el valor de los pasajes.
 - Histograma por línea aérea: Se visualiza el precio total por cada línea aérea.
 
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](images/image-3.png)
+![alt text](images/image-4.png)
 
 4. Evaluación del Proyecto
 El proyecto se realizó teniendo en cuenta las consideraciones propuestas, las mejores prácticas. Si
